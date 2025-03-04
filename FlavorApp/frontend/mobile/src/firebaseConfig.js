@@ -1,0 +1,1 @@
+export const firebaseConfig = {"apiKey": "YOUR_API_KEY", "authDomain": "flavorapp.firebaseapp.com", "projectId": "flavorapp", "storageBucket": "flavorapp.appspot.com", "messagingSenderId": "YOUR_MESSAGING_SENDER_ID", "appId": "YOUR_APP_ID"};

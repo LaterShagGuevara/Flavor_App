@@ -1,0 +1,14 @@
+{
+  "build": {
+    "production": {
+      "android": {
+        "gradleCommand": ":app:bundleRelease",
+        "withoutCredentials": true
+      },
+      "ios": {
+        "buildType": "release",
+        "withoutCredentials": true
+      }
+    }
+  }
+}
